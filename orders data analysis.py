@@ -1,3 +1,4 @@
+# This python file is part of Sales Analysis Using SQL and Python.
 # Import necessary libraries
 import kaggle
 import pandas as pd
