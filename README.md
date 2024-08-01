@@ -1,8 +1,6 @@
-# Python Projects
+# Sales Analysis Using SQL and Python
 
 This repository contains Python projects that showcase my data analysis skills. Below are the details of each project included in this repository.
-
-## Project 1: Sales Analysis Using SQL and Python
 
 ### Overview
 This project demonstrates my ability to perform data analysis and cleaning using Python and SQL. The primary focus is on analyzing retail order data to extract meaningful insights and load the cleaned data into an SQL database.
